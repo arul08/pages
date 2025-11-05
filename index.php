@@ -196,7 +196,7 @@ if ($Aa=='User'){
                               ?>
                             </div>
                             <!-- /.list-group -->
-                            <a href="product.php" class="btn btn-default btn-block">View All Products</a>
+                            <a href="../product.php" class="btn btn-default btn-block">View All Products</a>
                         </div>
                         <!-- /.panel-body -->
                     </div></div></div></div></div></div>
